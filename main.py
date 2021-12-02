@@ -108,7 +108,7 @@ def localidades():
 	br2=f'\n{vm}-={az}[{cn}+{az}]{br}CONSULTA FEITA PELO PROGRAMA Zp4in3l\n{vm}-={az}[{cn}+{az}]{br}by: Zorrinho\n{vm}-={az}[{cn}id{az}]{br}{req1["id"]}\n{vm}-={az}[{cn}estado{az}]{br}{req1["sigla"]}\n{vm}-={az}[{cn}nome{az}]{br}{req1["nome"]}\n{vm}-={az}[{cn}região{az}]{br}{req1["regiao"]}'
 	print(br2)
 def menu():
-        clear()
+	clear()
 	print(f"""{cn}
 	 /﹋\_
 	(҂`_´) {br}- {vd}By: Zorro{cn}
