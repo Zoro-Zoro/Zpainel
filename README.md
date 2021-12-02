@@ -13,6 +13,7 @@
     <ul>
        <li>git clone https://github.com/Zoro-Zoro/Zp4in3l</li>
        <li>cd Zp4in3l</li>
+       <li>pip install requirements.txt</li>
        <li>python3 main.py</li>
     </ul>
   </p>
