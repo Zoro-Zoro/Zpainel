@@ -4,6 +4,16 @@
   <img src="20211201_221730.png" height="50%" width="100%" />
 </div>
 <div style="text-align:center;">
-  <h4>[❗]Um Simples Painel de Consultas que cujo o objetivo é retornar dados como nome, CPF, ddd, número etc...</h4>
-  <h3>
+  <h4 align="center">[❗]Um Simples Painel de Consultas que cujo o objetivo é retornar dados como nome, CPF, ddd, número etc...</h4>
+  <hr>
+  <h3 align="center">Install & Run</h3>
+</div>
+<div style="background:#255;">
+  <p>
+    <ul>
+       <li>git clone https://github.com/Zoro-Zoro/Zp4in3l</li>
+       <li>cd Zp4in3l</li>
+       <li>python3 main.py</li>
+    </ul>
+  </p>
 </div>
