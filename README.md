@@ -21,8 +21,8 @@
 
 ```
 git clone https://github.com/Zoro-Zoro/Zp4in3l<br>
-cd Zp4in3l<br>
-pip install requirements.txt
+cd Zp4in3l
+pip install -r requirements.txt
 python3 main.py
 ```
 
