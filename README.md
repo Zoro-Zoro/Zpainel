@@ -8,8 +8,6 @@
   <h4 align="center">[❗]Um Simples Painel de Consultas que cujo o objetivo é retornar dados como nome, CPF, ddd, número etc...</h4>
   <hr>
 </div>
-<h3 align="center">Instalação inicial🌐</h3>
-
 
 ```
 - IP ✔
@@ -28,7 +26,7 @@
 - NUMERO ✔
 ```
 
-<hr />
+<h3 align="center">Instalação inicial🌐</h3>
 
 ```
  pkg update && pkg upgrade -y
