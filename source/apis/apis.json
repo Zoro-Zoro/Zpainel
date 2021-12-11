@@ -1,0 +1,14 @@
+{
+    "ip1":"https://api.ipgeolocation.io",
+    "ip2":"http://ip-api.com/json/",
+    "ip3":"https://api.ipfind.com/",
+    "cep1":"https://api.postmon.com.br/v1/cep",
+    "cep2":"https://viacep.com.br/ws/",
+    "cep3":"https://ws.apicep.com/cep/",
+    "cnpj":"https://www.receitaws.com.br/v1/cnpj/",
+    "cpf":"http://api.trackear.com.br/basepv/cpf/",
+    "numero":"http://apilayer.net/api/",
+    "localidades":"https://servicodados.ibge.gov.br/api/v1/localidades/estados",
+    "nomes":"http://ghostcenter.xyz/api/nome/",
+    "meuip":"https://api.ipify.org"
+}
